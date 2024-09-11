@@ -34,11 +34,12 @@ In the root of your project, create a `vue.config.js` file to specify the public
 
 See **[Configuration Reference](https://cli.vuejs.org/config/)** for more detailed information if needed.
 
-## Configuring the `vue.config.js` File
+## Configuring the `vue.config.ts` File
 
 ```js
-// vue.config.js
+// vue.config.ts
 module.exports = {
+...
   publicPath:
     process.env.NODE_ENV === "production" ? "/<your-repo-name>/" : "/",
 };
