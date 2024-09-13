@@ -1,0 +1,16 @@
+C:\Laragon\www\Best-Lang\CSharp-Std\bin\Debug\net5.0\CSharp-Std.exe
+C:\Laragon\www\Best-Lang\CSharp-Std\bin\Debug\net5.0\CSharp-Std.deps.json
+C:\Laragon\www\Best-Lang\CSharp-Std\bin\Debug\net5.0\CSharp-Std.runtimeconfig.json
+C:\Laragon\www\Best-Lang\CSharp-Std\bin\Debug\net5.0\CSharp-Std.runtimeconfig.dev.json
+C:\Laragon\www\Best-Lang\CSharp-Std\bin\Debug\net5.0\CSharp-Std.dll
+C:\Laragon\www\Best-Lang\CSharp-Std\bin\Debug\net5.0\ref\CSharp-Std.dll
+C:\Laragon\www\Best-Lang\CSharp-Std\bin\Debug\net5.0\CSharp-Std.pdb
+C:\Laragon\www\Best-Lang\CSharp-Std\obj\Debug\net5.0\CSharp-Std.csproj.AssemblyReference.cache
+C:\Laragon\www\Best-Lang\CSharp-Std\obj\Debug\net5.0\CSharp-Std.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laragon\www\Best-Lang\CSharp-Std\obj\Debug\net5.0\CSharp-Std.AssemblyInfoInputs.cache
+C:\Laragon\www\Best-Lang\CSharp-Std\obj\Debug\net5.0\CSharp-Std.AssemblyInfo.cs
+C:\Laragon\www\Best-Lang\CSharp-Std\obj\Debug\net5.0\CSharp-Std.csproj.CoreCompileInputs.cache
+C:\Laragon\www\Best-Lang\CSharp-Std\obj\Debug\net5.0\CSharp-Std.dll
+C:\Laragon\www\Best-Lang\CSharp-Std\obj\Debug\net5.0\ref\CSharp-Std.dll
+C:\Laragon\www\Best-Lang\CSharp-Std\obj\Debug\net5.0\CSharp-Std.pdb
+C:\Laragon\www\Best-Lang\CSharp-Std\obj\Debug\net5.0\CSharp-Std.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+
+<head>
+  <title>Print Numbers</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+</head>
+
+<body ng-controller="MainCtrl">
+  <div ng-repeat="i in numbers">
+    <span ng-if="i % 5 === 0 && i % 7 === 0">Five-Seven</span>
+    <span ng-if="i % 5 === 0 && i % 7 !== 0">Five</span>
+    <span ng-if="i % 7 === 0 && i % 5 !== 0">Seven</span>
+    <span ng-if="i % 5 !== 0 && i % 7 !== 0">{{i}}</span>
+  </div>
+
+  <script>
+    angular.module('myApp', []).controller('MainCtrl', function ($scope) {
+      $scope.numbers = Array.from({ length: 100 }, (v, k) => k + 1);
+    });
+  </script>
+</body>
+
+</html>
