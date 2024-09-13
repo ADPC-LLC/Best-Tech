@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CSharp_Std
 {
@@ -6,7 +6,7 @@ namespace CSharp_Std
     {
             static void Main(string[] args)
             {
-                Console.WriteLine("Hello World!");
+                Console.WriteLine("Hello World!I'm running on C#.");
 
             for (int i = 1; i <= 100; i++)
             {

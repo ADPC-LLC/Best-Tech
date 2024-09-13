@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void printNumbers() {
+    printf("Hello World! I'm running on C.\n");
     for (int i = 1; i <= 100; i++) {
         if (i % 5 == 0 && i % 7 == 0) {
             printf("Five-Seven\n");
