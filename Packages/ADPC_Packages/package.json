@@ -1,0 +1,12 @@
+{
+  "name": "adpc-packages-root",
+  "version": "0.0.1",
+  "description": "This is the Project's Private Packages Root Folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["private", "proprietary"],
+  "author": "andre.du.plessis@adpc-llc.com",
+  "license": "Proprietary"
+}
