@@ -1,0 +1,9 @@
+node_modules
+.parcel-cache
+dist
+todo.md
+build
+tsconfig.tsbuildinfo
+.pnpm-debug.log
+Prj_Documentation/.vitepress/dist
+Prj_Documentation/.vitepress/cache
