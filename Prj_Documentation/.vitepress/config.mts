@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "The Language-Playoff Project",
+  title: "The DevTech-Playoff Project",
   description: "Project Documentation - Best-Lang",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/ADPC-LLC/' }
     ]
   }
 })
