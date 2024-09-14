@@ -4,9 +4,15 @@ layout: home
 
 hero:
   name: "The DevTech-Playoff Project"
-  <h1 align="right"><img src="./assets/images/notebook-01.jpg"/></h1>
-  text: "Project Documentation - Best-Lang"
-  tagline: My great project tagline
+
+#  <img align="center" src="./assets/images/notebook-01.jpg" />
+# Use Customization for Theme
+
+  text: "Project Documentation - Best-Tech"
+  tagline: Let the Games Begin — And May They Continue! 
+
+  details: "Add some introduction text here..."
+
   actions:
     - theme: brand
       text: Markdown Examples
