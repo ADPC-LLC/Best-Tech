@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "The DevTech-Playoff Project"
-  <h1 align="center"><img src="./assets/images/notebook-01.jpg"/></h1>
+  <h1 align="right"><img src="./assets/images/notebook-01.jpg"/></h1>
   text: "Project Documentation - Best-Lang"
   tagline: My great project tagline
   actions:
