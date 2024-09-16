@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "The DevTech-Playoff Project",
-  description: "Project Documentation - Best-Lang",
+  description: "Project Documentation - Best-Tech, A Language and Framework Comparisons Project",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
